@@ -1,3 +1,3 @@
-# Udacity_Deep_Learning
-# Udacity_Deep_Learning
-# First-Numpy-NNet
+# First Udacity Deep Learning Foundations Course Project
+
+Creating my first Neural Network using Numpy
